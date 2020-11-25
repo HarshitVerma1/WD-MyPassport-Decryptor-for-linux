@@ -1,6 +1,6 @@
 *Basically we are know that "How to Unlock Western Digital drive on WINDOWS" because hard disk unlock driver given only for Windows OS . Now We Learn that "HOW TO UNLOCK Western Digital DRIVE ON LINUX" :)*
 
-1. sg-3 utils install According your Distro (http://sg.danny.cz/sg/sg3_utils.html) 
+1. sg-3 utils install According your Distro (http://sg.danny.cz/sg/sg3_utils.html) <br>
 **DownloadLink -** http://sg.danny.cz/sg/p/sg3-utils_1.45-0.1_amd64.deb
 2. `sudo apt-get install python`
 3. `sudo apt-get install python3`
